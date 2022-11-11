@@ -1,7 +1,8 @@
-## 👋 Hi, I’m Vito
-😄 Pronouns: he/they
+👋 Hi, I’m Vito and I use he/they pronouns. Welcome!
 
-📊 I'm a Data Analyst and currently work in the non-profit healthcare space. 
+🏠 I live in Silver Spring, MD with my dog and cat.
+
+📊 I'm a Data Analyst in the non-profit healthcare space.
 
 🦄 Skills and Tools: SQL, Tableau, Excel
 
