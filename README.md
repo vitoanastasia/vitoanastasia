@@ -2,7 +2,7 @@
 
 🏠 I live in Silver Spring, MD with my dog and cat.
 
-📊 I'm a Data Analyst in the non-profit healthcare space.
+📊 I'm a Senior Data Analyst. I've worked with healthcare data, both clinical and operational, as well as Sales, Sales Operations, and Sales Support data. I'm currently looking for work so if you are looking to hire a talented Senior Data Analyst, connect with me on [LinkedIn](https://www.linkedin.com/in/vito/).
 
 🦄 Skills and Tools: SQL, Tableau, Excel
 
