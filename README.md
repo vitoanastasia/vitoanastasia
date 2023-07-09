@@ -2,7 +2,9 @@
 
 🏠 I live in Silver Spring, MD with my dog and cat.
 
-📊 I'm a Senior Data Analyst. I've worked with healthcare data, both clinical and operational, as well as Sales, Sales Operations, and Sales Support data. I'm currently looking for work so if you are looking to hire a talented Senior Data Analyst, connect with me on [LinkedIn](https://www.linkedin.com/in/vito/).
+📊 I'm currently a Support Analyst contracted to CRISP Shared Services, a Health Information Exchance, through TEKSystems where I support the Master Data Management Infrastructure that manages CRISP patient entities. I help ensure Master Data Management Patient Match is operating optimally by evaluating and monitoring system health, act as a Tier-2 support resource, works with customers to help enroll new participants to the HIE, and perform analysis on data attributes to ensure data quality and integrity.
+
+Previously, I was a Senior Data Analyst and Business Intelligence Analyst. I've worked with healthcare data, both clinical and operational, as well as Sales, Sales Operations, and Sales Support data. If you'd like to connect with me, find me on [LinkedIn](https://www.linkedin.com/in/vito/).
 
 🦄 Skills and Tools: SQL, Tableau, Excel
 
